@@ -58,7 +58,6 @@ jobs:
                        name="Cruel-devel"        \
                        toolchain=$TOOLCHAIN      \
                        +magisk=v26.1             \
-                       +nohardening              \
                        +mass_storage             \
                        +dtb                      \
                        +ttl                      \
